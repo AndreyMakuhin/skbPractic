@@ -1,0 +1,10 @@
+C:\Users\Andrey_Makuhin\AppData\Local\Temporary Projects\skb_learn\bin\Release\skb_learn.exe
+C:\Users\Andrey_Makuhin\AppData\Local\Temporary Projects\skb_learn\bin\Release\skb_learn.pdb
+C:\Users\Andrey_Makuhin\AppData\Local\Temporary Projects\skb_learn\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Andrey_Makuhin\AppData\Local\Temporary Projects\skb_learn\obj\Release\skb_learn.exe
+C:\Users\Andrey_Makuhin\AppData\Local\Temporary Projects\skb_learn\obj\Release\skb_learn.pdb
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Release\skb_learn.exe
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Release\skb_learn.pdb
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\bin\Release\skb_learn.exe
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\bin\Release\skb_learn.pdb
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Release\ResolveAssemblyReference.cache

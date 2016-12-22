@@ -1,0 +1,5 @@
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\bin\Debug\skb_learn.exe
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\bin\Debug\skb_learn.pdb
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Debug\ResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Debug\skb_learn.exe
+C:\Andrey\код\C#_lessons\skb_contur\skb_learn\skb_learn\obj\Debug\skb_learn.pdb

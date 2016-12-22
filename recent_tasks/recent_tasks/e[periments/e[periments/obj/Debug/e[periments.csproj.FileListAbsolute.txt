@@ -1,0 +1,6 @@
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\bin\Debug\e[periments.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\bin\Debug\e[periments.exe
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\bin\Debug\e[periments.pdb
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\obj\Debug\e[periments.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\obj\Debug\e[periments.exe
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\e[periments\e[periments\obj\Debug\e[periments.pdb

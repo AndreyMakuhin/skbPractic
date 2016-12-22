@@ -1,0 +1,1 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Distance\bin\Debug\Distance.exe.config

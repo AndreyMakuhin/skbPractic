@@ -1,0 +1,6 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\bin\Debug\DragonFractal.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\bin\Debug\DragonFractal.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\bin\Debug\DragonFractal.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\obj\Debug\DragonFractal.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\obj\Debug\DragonFractal.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_03_fractal\obj\Debug\DragonFractal.pdb

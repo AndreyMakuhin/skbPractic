@@ -1,0 +1,6 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\bin\Debug\Pluralize.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\bin\Debug\rubles.txt
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\bin\Debug\Pluralize.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\bin\Debug\Pluralize.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\obj\Debug\Pluralize.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\Pluralize\obj\Debug\Pluralize.pdb

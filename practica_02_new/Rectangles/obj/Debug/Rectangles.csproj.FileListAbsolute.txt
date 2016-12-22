@@ -1,0 +1,7 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\bin\Debug\Rectangles.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\bin\Debug\Rectangles.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\bin\Debug\TestingRoom.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\obj\Debug\Rectangles.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Rectangles\obj\Debug\Rectangles.pdb

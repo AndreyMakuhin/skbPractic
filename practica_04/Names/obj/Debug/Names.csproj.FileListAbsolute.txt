@@ -1,0 +1,9 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\names.txt
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\Names.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\Names.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\Names.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\ZedGraph.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\bin\Debug\ZedGraph.xml
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\obj\Debug\Names.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\obj\Debug\Names.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_04\Names\obj\Debug\Names.pdb

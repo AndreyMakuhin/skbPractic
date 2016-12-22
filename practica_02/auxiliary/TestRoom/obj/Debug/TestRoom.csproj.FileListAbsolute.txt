@@ -1,0 +1,9 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestRoom.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestingRoom.Properties.Resources.resources
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestingRoom.TestRoom.resources
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestRoom.csproj.GenerateResource.Cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\TestingRoom.dll.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestingRoom.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\obj\Debug\TestingRoom.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\TestingRoom.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_02\auxiliary\TestRoom\TestingRoom.pdb

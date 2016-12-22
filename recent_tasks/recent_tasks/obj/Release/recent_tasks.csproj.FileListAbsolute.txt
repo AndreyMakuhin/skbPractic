@@ -1,0 +1,5 @@
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\bin\Release\recent_tasks.exe
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\bin\Release\recent_tasks.pdb
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\obj\Release\recent_tasks.exe
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\obj\Release\recent_tasks.pdb
+C:\Andrey\код\C#_lessons\skb_contur\recent_tasks\recent_tasks\obj\Release\recent_tasks.csprojResolveAssemblyReference.cache

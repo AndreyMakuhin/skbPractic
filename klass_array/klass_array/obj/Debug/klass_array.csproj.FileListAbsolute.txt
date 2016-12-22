@@ -1,0 +1,6 @@
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\bin\Debug\klass_array.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\bin\Debug\klass_array.exe
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\bin\Debug\klass_array.pdb
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\obj\Debug\klass_array.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\obj\Debug\klass_array.exe
+C:\Andrey\код\C#_lessons\skb_contur\klass_array\klass_array\obj\Debug\klass_array.pdb

@@ -1,0 +1,8 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\bin\Debug\AngryBirds.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\bin\Debug\AngryBirds.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\bin\Debug\AngryBirds.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\bin\Debug\TestingRoom.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\bin\Debug\TestingRoom.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\obj\Debug\AngryBirds.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\obj\Debug\AngryBirds.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_01\AngryBirds\obj\Debug\AngryBirds.pdb

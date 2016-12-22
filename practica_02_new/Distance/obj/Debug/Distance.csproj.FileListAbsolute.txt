@@ -1,0 +1,7 @@
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\bin\Debug\Distance.exe.config
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\obj\Debug\Distance.csprojResolveAssemblyReference.cache
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\bin\Debug\Distance.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\bin\Debug\Distance.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\bin\Debug\TestingRoom.dll
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\obj\Debug\Distance.exe
+C:\Andrey\код\C#_lessons\skb_contur\practica_02_new\Distance\obj\Debug\Distance.pdb
