@@ -5,3 +5,4 @@ C:\Andrey\код\C#_lessons\skb_contur\practica_05\bin\Debug\TextAnalysis.pdb
 C:\Andrey\код\C#_lessons\skb_contur\practica_05\obj\Debug\TextAnalysis.csprojResolveAssemblyReference.cache
 C:\Andrey\код\C#_lessons\skb_contur\practica_05\obj\Debug\TextAnalysis.exe
 C:\Andrey\код\C#_lessons\skb_contur\practica_05\obj\Debug\TextAnalysis.pdb
+C:\Andrey\код\C#_lessons\skb_contur\practica_05\bin\Debug\TextDebug.txt

@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.IO;
 
 namespace TextAnalysis
 {
@@ -7,14 +8,29 @@ namespace TextAnalysis
 		
 
 		public static Dictionary<string, string> GetMostFrequentNextWords(List<List<string>> text)
-		{
-            var wordsDictionary = new Dictionary<string,string>();
+		{                    
 
             var bigramsList = BigBuild(text);// создали лист со всеми биграмами
 
+            var tempArr = new List<string>();
+            foreach (var e in bigramsList)
+            {
+                tempArr.Add(e[0]  + ' ' + e[1] );
+            }
+
+            File.WriteAllLines("bigList.txt", tempArr);
+
             var bigramsDict = BigAmount(bigramsList);
 
-            wordsDictionary = SelectTheBest(bigramsDict);
+            var countArr = new List<string>();
+            foreach (var e in bigramsDict)
+            {
+               countArr.Add(e.Key + " - " + e.Value);
+            }
+
+            File.WriteAllLines("countList.txt", countArr);
+
+            var wordsDictionary = SelectTheBest(bigramsDict);
 
             return wordsDictionary;
 		}//основной метод
@@ -26,72 +42,72 @@ namespace TextAnalysis
             List<string[]> bigramBuilder = new List<string[]>();
 
             foreach (var sentence in text)
-            {                
-                //List<List<string[]>> bigramList = new List<List<string[]>>();
-
+            {   
                 if (sentence.Count > 2)
                 {
                     for (int i = 0; i < sentence.Count - 1; i++)
                     {
                         bigramBuilder.Add(new string[] { sentence[i], sentence[i + 1] });
                     }
-
-                    //bigramList.Add(bigramBuilder);
                 }
                 else if (sentence.Count == 2)
                 {
-                    bigramBuilder.Add(new string[] { sentence[0], sentence[1] });
-                    //bigramList.Add(list);
+                    bigramBuilder.Add(new string[] { sentence[0], sentence[1] });                   
                 }
             }
 
             return bigramBuilder;
         }//BigBuild()
 
-        public static Dictionary<string[], int> BigAmount(List<string[]> bigrams)//возвращает словарь, где ключ - это биграма, значение - ее количество в тексте
+        public static Dictionary<string, int> BigAmount(List<string[]> bigrams)//возвращает словарь, где ключ - это биграма, значение - ее количество в тексте
         {
-            var bigramAmount = new Dictionary<string[], int>();
+            var bigramAmount = new Dictionary<string, int>();
 
             foreach (var e in bigrams)
             {
-                if (!bigramAmount.ContainsKey(e))
+                var key = e[0] + " " + e[1];            
+
+                if (!bigramAmount.ContainsKey(key))
                 {
-                    bigramAmount[e] = 1;
+                    bigramAmount[key] = 1;                   
+                    
                 }
                 else
                 {
-                    bigramAmount[e]++;
+                    bigramAmount[key]++;
                 }
             }
 
             return bigramAmount;
         }// BigAmount()
 
-        public static Dictionary<string, string> SelectTheBest(Dictionary<string[], int> dicton)
+        public static Dictionary<string, string> SelectTheBest(Dictionary<string, int> dicton)
         {
             var finalDict = new Dictionary<string, string>();
 
             foreach (var e in dicton)
             {
-                if (!finalDict.ContainsKey(e.Key[0]))
+                var key = e.Key.Split(' ');
+                if (!finalDict.ContainsKey(key[0]))
                 {
-                    var bestBigram = ChoiseMaxBigram(dicton, e.Key);
+                    var bestBigram = ChoiseMaxBigram(dicton, key);
                     finalDict.Add(bestBigram[0], bestBigram[1]);
                 }                
             }
             return finalDict;
         }//SelectTheBest()
 
-        public static string[] ChoiseMaxBigram(Dictionary<string[], int> dicton, string[] bigram)
+        public static string[] ChoiseMaxBigram(Dictionary<string, int> dicton, string[] bigram)
         {
             foreach (var e in dicton)
             {
+                var key = e.Key.Split(' ');
                 var rank = 0;
-                if (e.Key[0] == bigram[0])
+                if (key[0] == bigram[0])
                 {
                     if (e.Value >= rank)
                     {
-                        bigram = e.Key;
+                        bigram = key;
                         rank = e.Value;
                     }
                         

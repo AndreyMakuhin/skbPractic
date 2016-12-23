@@ -8,9 +8,10 @@ namespace TextAnalysis
 	{
 		public static void Main()
 		{
-			var text = File.ReadAllText("Text.txt");
+			//var text = File.ReadAllText("TextDebug.txt");
+            var text = File.ReadAllText("Text.txt");
 
-			Console.WriteLine("SentencesParserTask:");
+            Console.WriteLine("SentencesParserTask:");
 			var sentences = SentencesParserTask.ParseSentences(text);
             for (int i = 0; i < Math.Min(10, sentences.Count); i++)
                 Console.WriteLine(string.Join("|", sentences[i]) + ".");
